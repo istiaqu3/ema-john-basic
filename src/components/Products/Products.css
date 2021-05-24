@@ -11,7 +11,7 @@
     font-weight: 400;
 }
 
-#addToCartBtn{
+.addToCartBtn{
     background-color: goldenrod;
     width: 150px;
     height: 30px;
